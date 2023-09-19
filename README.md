@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LazrProductions/conversations/main/readme/ConversationsTitleWithIcons.png" />
+  <img src="https://raw.githubusercontent.com/LazrProductions/heroics/main/readme/title.png" />
 </p>
 
 <div align="center">
